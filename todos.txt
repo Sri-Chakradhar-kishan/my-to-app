@@ -1,0 +1,7 @@
+prepare
+play chess
+write
+Python Learner
+garage
+Throw the trash
+Do the laundry
